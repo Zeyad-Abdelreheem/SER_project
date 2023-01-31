@@ -54,8 +54,11 @@ the model predicted  **neutral**  and the true label was  **disgust** <br />
 _________________________________________________________________________________________ 
 <br />
 
-another way to follow up is to look through the `pipline.ipynb` found in notebooks folder <br />
+Another way to follow up is to look through the `pipline.ipynb` found in notebooks folder <br />
 this is the kaggle notebook I used to train the model and save its weights
+
+_________________________________________________________________________________________ 
+<br />
 
 ## Model Summary
 ```
