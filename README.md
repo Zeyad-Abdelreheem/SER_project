@@ -2,7 +2,7 @@
 
  
 ## **Description**   
-The project is about creating a model that can recognize emotions based on an input audio signal.
+The project is about creating a model that can recognize emotions based on an input audio signal. <br />
 The model can recognize the following emotions:-
 - Anger
 - Disgust
