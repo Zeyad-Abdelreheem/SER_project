@@ -100,7 +100,9 @@ Total params: 7,193,223
 Trainable params: 7,188,871
 Non-trainable params: 4,352
 ```
+
 ## Results
+![alt text](loss_acc.png)
 
 ## References
 
