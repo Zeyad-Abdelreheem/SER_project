@@ -16,7 +16,7 @@ the model was trained on 4 popular datasets found on
 [Kaggle](https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en)
 
 ## **How to run**   
-First, install dependencies found in requirements.txt
+First, install dependencies found in `requirements.txt`
 
 
 ```bash   
