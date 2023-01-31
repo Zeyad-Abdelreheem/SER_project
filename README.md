@@ -109,3 +109,6 @@ the model got an accuracy of 93% on the test dataset
 
 ## References
 
+[Kaggle](https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en)
+[Features](https://www.kaggle.com/code/dmitrybabko/speech-emotion-recognition-conv1d)
+
