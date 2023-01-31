@@ -50,7 +50,10 @@ the model predicted  **angry**  and the true label was  **angry**  <br />
 
 1/1 [==============================] - 0s 123ms/step <br />
 the model predicted  **neutral**  and the true label was  **disgust** <br />
+<br />
 
+another way to follow up is to look through the `pipline.ipynb` found in notebooks folder <br />
+this is the kaggle notebook I used to train the model and save its weights
 
 ## Model Summary
 ```
