@@ -113,7 +113,7 @@ Non-trainable params: 4,352
 ![alt text](loss_acc.png)
 
 <br />
-the model got an accuracy of **93** % on the test dataset 
+the model got an accuracy of 93% on the test dataset 
 
 ## References
 
