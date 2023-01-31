@@ -1,0 +1,7 @@
+the dataset is huge to include it on github
+so here is the link from which you can download the dataset
+
+
+Kaggle Speech emotion recognition:-
+
+https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en

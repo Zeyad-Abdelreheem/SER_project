@@ -1,0 +1,12 @@
+os
+re
+librosa
+matplotlib
+numpy
+pandas
+seaborn
+IPython
+keras
+sklearn
+tensorflow
+itertools
