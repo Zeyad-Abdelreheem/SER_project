@@ -25,3 +25,29 @@ pip install -r requirements.txt
 Then
 from the `main_script` call the predict function with needed paths
 
+
+**Example**
+
+```
+trained_model_path = './models/res_model.h5'
+
+weights_path = './models/model_weights.h5'
+
+samples_path = './test_samples'
+
+scaler_model_path = './scaler.pkl'
+
+predict(samples_path, trained_model_path, weights_path, scaler_model_path)
+
+```
+
+**sample output**
+1/1 [==============================] - 0s 353ms/step
+the model predicted  **sad**  and the true label was  **sad** 
+
+1/1 [==============================] - 0s 120ms/step
+the model predicted  **angry**  and the true label was  **angry** 
+
+1/1 [==============================] - 0s 123ms/step
+the model predicted  **neutral**  and the true label was  **disgust**
+
