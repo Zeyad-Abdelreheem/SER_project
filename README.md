@@ -41,13 +41,13 @@ predict(samples_path, trained_model_path, weights_path, scaler_model_path)
 
 ```
 
-**sample output**
-1/1 [==============================] - 0s 353ms/step
-the model predicted  **sad**  and the true label was  **sad** 
+**sample output** <br />
+1/1 [==============================] - 0s 353ms/step  <br />
+the model predicted  **sad**  and the true label was  **sad**  <br />
 
-1/1 [==============================] - 0s 120ms/step
-the model predicted  **angry**  and the true label was  **angry** 
+1/1 [==============================] - 0s 120ms/step <br />
+the model predicted  **angry**  and the true label was  **angry**  <br />
 
-1/1 [==============================] - 0s 123ms/step
-the model predicted  **neutral**  and the true label was  **disgust**
+1/1 [==============================] - 0s 123ms/step <br />
+the model predicted  **neutral**  and the true label was  **disgust** <br />
 
