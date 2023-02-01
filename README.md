@@ -35,7 +35,7 @@ weights_path = './models/model_weights.h5'
 
 samples_path = './test_samples'
 
-scaler_model_path = './scaler.pkl'
+scaler_model_path = './Assets/scaler.pkl'
 
 predict(samples_path, trained_model_path, weights_path, scaler_model_path)
 
@@ -110,7 +110,7 @@ Non-trainable params: 4,352
 ```
 
 ## Results
-![alt text](loss_acc.png)
+![alt text](Assets/loss_acc.png)
 
 <br />
 the model got an accuracy of 93% on the test dataset 
